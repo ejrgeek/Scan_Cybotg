@@ -1,0 +1,13 @@
+Data: 22 de Setembro de 2017
+
+Versao 3.0:
+	- IpCy.py
+		* Revisao de codigo
+
+	- ScanCy.py
+		* Revisao de Codigo
+		* Total de portas modificadas
+
+	- ScanFullCy.py
+		* Revisao de Codigo
+                * Total de portas modificadas
